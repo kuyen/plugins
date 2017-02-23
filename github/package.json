@@ -11,13 +11,13 @@
     "message": "",
     "popup": [],
     "hasNotificationSound": false,
-    "hasIndirectMessages": false,
+    "hasIndirectMessages": true,
     "hasTeamID": false,
     "customURL": false,
     "hostedOnly": false,
     "webviewOptions": {
       "disablewebsecurity": ""
     },
-    "openDevTools": false
+    "openDevTools": true
   }
 }
